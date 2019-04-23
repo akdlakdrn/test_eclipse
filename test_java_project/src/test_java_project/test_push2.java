@@ -4,10 +4,8 @@ package test_java_project;
 public class test_push2 {
 	 	
 	void func() {
-		System.out.println("i'm local~!");
+	System.out.println("modify at github(server)");
+	System.out.println("i'm local~!");
+	System.out.println("pull test");
 	}
-=======
-public class test_push {
-    System.out.println("modify at github(server)");
->>>>>>> refs/remotes/origin/master
 }
